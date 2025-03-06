@@ -636,3 +636,6 @@ jsonresume:
   - languages
   - interests
   - references
+
+
+remote_theme: alshedivat/al-folio
