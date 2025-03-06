@@ -1,6 +1,8 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll'
+gem "jekyll", "~> 4.2.0"
+gem "jekyll-remote-theme"
+
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
