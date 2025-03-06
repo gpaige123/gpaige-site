@@ -639,3 +639,6 @@ jsonresume:
 
 
 remote_theme: alshedivat/al-folio
+plugins:
+  - jekyll-remote-theme
+
